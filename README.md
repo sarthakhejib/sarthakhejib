@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarthak 
 - 👀 I’m interested in Java, Spring Boot, Microservices and Kafka 
-- 📫 How to reach me on LinkedIn(https://www.linkedin.com/in/sarthak-hejib-89016118a) and Leetcode (smokebbx) 
+- 📫 How to reach me on LinkedIn(www.linkedin.com/in/sarthak-hejib) and Leetcode (smokebbx) 
 
 <!---
 sarthakhejib/sarthakhejib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
