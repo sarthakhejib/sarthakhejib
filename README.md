@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarthak 
-- 👀 I’m interested in Java, Spring Boot, Spring Batch and Kafka 
+- 👀 I’m interested in Java, Spring Boot, Microservices and Kafka 
 - 📫 How to reach me on LinkedIn(https://www.linkedin.com/in/sarthak-hejib-89016118a) and Leetcode (smokebbx) 
 
 <!---
